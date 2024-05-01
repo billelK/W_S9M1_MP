@@ -43,7 +43,7 @@ Have fun writing tests, and check out the **Solution Video** of this project for
 2. There are 4 users registered in the system, try logging them in by hand:
     - username `Shakira`, password `Suerte1977%`
     - username `Beyoncé`, password `Halo1981#`
-    - username `Shakira`, password `FirstLove1983;`
+    - username `UtadaHikaru`, password `FirstLove1983;`
     - username `Madonna`, password `Vogue1958@`
 
     **Note:** You can submit the form either clicking the button or hitting the Enter key on your keyboard.
